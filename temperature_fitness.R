@@ -2,7 +2,7 @@
 
 #you already have a dataset called filteredpheno2
 
-2. You could work out what the average duration is between first egg date and first known incubation. Then for each nestbox the focal time period is the period between FED and the end of this period.
+2) You could work out what the average duration is between first egg date and first known incubation. Then for each nestbox the focal time period is the period between FED and the end of this period.
 
 #The average duration from fed to fki is 10.16
 
