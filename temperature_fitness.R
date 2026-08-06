@@ -1,6 +1,6 @@
 1. You may want to filter the birdphenology data to only focus on cases where the species is bluti, and there is data for FED and FKI and the visit frequency column doesn’t have text in it - this means that you’d be focusing on data where we know the first egg-date precisely.
 
-#you already have a dataset called filteredpheno2
+##you already have a dataset called filteredpheno2
 
 2. You could work out what the average duration is between first egg date and first known incubation. Then for each nestbox the focal time period is the period between FED and the end of this period.
 
