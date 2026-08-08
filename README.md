@@ -1,4 +1,4 @@
-**Climate Tracking in blue tits (_Cyanistes_caeruleus_) masters thesis**
+**Climate Tracking in blue tits (_Cyanistes caeruleus_) masters thesis**
 Written by Nicole Swinnerton
 Supervised by Ally Phillimore
 
